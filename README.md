@@ -4,8 +4,8 @@ Welcome! This page shows you how to easily display the latest Amazon Best Seller
 Example of Random Display
 
 Amazon Best Seller by OmniBestSeller.com
-👉 [Read the full article here](https://omnibestseller.com/amazon-best-seller-rss-feed-embed-free-code-boost-blog-traffic/)
 
+👉 [Read the full article here](https://omnibestseller.com/amazon-best-seller-rss-feed-embed-free-code-boost-blog-traffic/)
 
 What Each Part of the Code Does
 simplexml_load_file(): Loads the RSS feed from OmniBestSeller.com.
